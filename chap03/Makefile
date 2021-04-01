@@ -20,3 +20,6 @@ broadcast: ## run broadcast
 
 once: ## run once
 	go run once.go
+
+pool: ## run pool
+	go run pool.go
