@@ -8,3 +8,6 @@ sync: ## run sync
 
 deadlock: ## run deadlock
 	go run deadlock.go
+
+livelock: ## run livelock
+	GOMAXPROCS=1 go run livelock.go
