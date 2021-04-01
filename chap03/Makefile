@@ -8,3 +8,6 @@ waitgroup: ## run waitgroup
 
 mutex: ## run mutex
 	go run mutex.go
+
+rwmutex: ## run rwmutex
+	go run rwmutex.go
