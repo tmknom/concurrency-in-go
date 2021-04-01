@@ -17,3 +17,6 @@ cond: ## run cond
 
 broadcast: ## run broadcast
 	go run broadcast.go
+
+once: ## run once
+	go run once.go
