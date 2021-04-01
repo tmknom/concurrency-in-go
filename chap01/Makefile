@@ -5,3 +5,6 @@ data_race: ## run data_race
 
 sync: ## run sync
 	go run sync.go
+
+deadlock: ## run deadlock
+	go run deadlock.go
