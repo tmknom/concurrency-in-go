@@ -14,3 +14,6 @@ rwmutex: ## run rwmutex
 
 cond: ## run cond
 	go run cond.go
+
+broadcast: ## run broadcast
+	go run broadcast.go
