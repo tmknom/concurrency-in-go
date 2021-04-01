@@ -11,3 +11,6 @@ mutex: ## run mutex
 
 rwmutex: ## run rwmutex
 	go run rwmutex.go
+
+cond: ## run cond
+	go run cond.go
