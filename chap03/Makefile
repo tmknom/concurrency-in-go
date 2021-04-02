@@ -26,3 +26,6 @@ pool: ## run pool
 
 channel: ## run channel
 	go run channel.go
+
+select: ## run select
+	go run select.go
