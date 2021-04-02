@@ -8,3 +8,6 @@ leak: ## run leak
 
 or: ## run or
 	go run or.go
+
+error: ## run error
+	go run error.go
