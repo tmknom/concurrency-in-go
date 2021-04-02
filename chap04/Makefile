@@ -11,3 +11,6 @@ or: ## run or
 
 error: ## run error
 	go run error.go
+
+pipeline: ## run pipeline
+	go run pipeline.go
