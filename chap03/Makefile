@@ -23,3 +23,6 @@ once: ## run once
 
 pool: ## run pool
 	go run pool.go
+
+channel: ## run channel
+	go run channel.go
