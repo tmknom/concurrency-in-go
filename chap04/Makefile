@@ -32,3 +32,6 @@ context: ## run context
 
 deadline: ## run deadline
 	go run deadline.go
+
+databag: ## run databag
+	go run databag.go
