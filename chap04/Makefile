@@ -23,3 +23,6 @@ tee: ## run tee
 
 bridge: ## run bridge
 	go run bridge.go
+
+greeting: ## run greeting
+	go run greeting.go
