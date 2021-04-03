@@ -11,3 +11,6 @@ stopbeat: ## run stopbeat
 
 heartbeat_test: ## run heartbeat_test
 	go test heartbeat_test.go
+
+first: ## run first
+	go run first.go
