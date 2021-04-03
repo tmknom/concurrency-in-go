@@ -29,3 +29,6 @@ greeting: ## run greeting
 
 context: ## run context
 	go run context.go
+
+deadline: ## run deadline
+	go run deadline.go
