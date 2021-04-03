@@ -20,3 +20,6 @@ fanout: ## run fanout
 
 tee: ## run tee
 	go run tee.go
+
+bridge: ## run bridge
+	go run bridge.go
