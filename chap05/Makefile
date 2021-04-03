@@ -5,3 +5,6 @@ heartbeat: ## run heartbeat
 
 stopbeat: ## run stopbeat
 	go run stopbeat.go
+
+heartbeat_test: ## run heartbeat_test
+	go test heartbeat_test.go
