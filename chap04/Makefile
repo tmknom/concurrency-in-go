@@ -17,3 +17,6 @@ pipeline: ## run pipeline
 
 fanout: ## run fanout
 	go run fanout.go
+
+tee: ## run tee
+	go run tee.go
