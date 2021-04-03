@@ -14,3 +14,6 @@ error: ## run error
 
 pipeline: ## run pipeline
 	go run pipeline.go
+
+fanout: ## run fanout
+	go run fanout.go
