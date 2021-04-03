@@ -1,5 +1,8 @@
 -include ../Makefile
 
+error: ## run error
+	go run error.go
+
 heartbeat: ## run heartbeat
 	go run heartbeat.go
 
