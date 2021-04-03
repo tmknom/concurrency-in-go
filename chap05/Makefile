@@ -14,3 +14,6 @@ heartbeat_test: ## run heartbeat_test
 
 first: ## run first
 	go run first.go
+
+limit: ## run limit
+	go run limit.go
