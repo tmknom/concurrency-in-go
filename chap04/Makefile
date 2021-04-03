@@ -26,3 +26,6 @@ bridge: ## run bridge
 
 greeting: ## run greeting
 	go run greeting.go
+
+context: ## run context
+	go run context.go
