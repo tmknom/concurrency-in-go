@@ -17,3 +17,6 @@ first: ## run first
 
 limit: ## run limit
 	go run limit.go
+
+steward: ## run steward
+	go run steward.go
